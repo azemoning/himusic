@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1542898993 source:d:\work\project\himusic\himusic 5.0\login.cpp
+	<fstream>
+	<iostream>
+	<limits>
+	<string>
+	<conio.h>
+
+1543227239 source:d:\work\project\himusic\himusic 5.0\main.cpp
+	<iostream>
+	<windows.h>
+
+1543908468 source:d:\work\project\himusic\himusic 5.0\prosedur.cpp
+	<bits/stdc++.h>
+	<fstream>
+	<string>
+	<stdlib.h>
+
+1542898993 source:d:\work\project\himusic\himusic - toko musik online masa depan\himusic\login.cpp
+	<fstream>
+	<iostream>
+	<limits>
+	<string>
+	<conio.h>
+
+1543227239 source:d:\work\project\himusic\himusic - toko musik online masa depan\himusic\main.cpp
+	<iostream>
+	<windows.h>
+
+1543908468 source:d:\work\project\himusic\himusic - toko musik online masa depan\himusic\prosedur.cpp
+	<bits/stdc++.h>
+	<fstream>
+	<string>
+	<stdlib.h>
+

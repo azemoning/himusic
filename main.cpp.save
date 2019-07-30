@@ -1,0 +1,13 @@
+#include <iostream>
+#include <fstream>
+
+using namespace std;
+
+void main_menu();
+
+int main()
+{
+    system("title HiMusic - Toko Musik Online Masa Depan");
+    main_menu();
+    return 0;
+}
